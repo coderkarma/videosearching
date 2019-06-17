@@ -5,5 +5,7 @@ Youtube Api is being used for getting the datas for the user.
 Searching is pretty faster when you look up for the videos on the this platform.
 
 
-# Packages
-youtube search 
+# Api
+youtube
+
+ 
